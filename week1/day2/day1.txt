@@ -1,0 +1,6 @@
+cp copy
+mv di chuyen thu muc
+rm xoa
+nano de nhap du lieu txt
+
+

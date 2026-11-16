@@ -1,0 +1,8 @@
+dong co trai
+encoder
+ESP32
+dong co phai
+lidar
+camera
+ERROR: mat ket noi ESP32
+INFO: robot san sang
